@@ -1,0 +1,7 @@
+<view class='container'>
+  <image class='user-avatar' src='/images/avatar.png'></image>
+  <text class='user-name'><text style='color:hotpink'>Hello</text>，Han</text>
+  <view class='moto-container' bindtap='handleTap'>
+    <text class='moto'>昨夜小楼又秋风</text>
+  </view>
+</view>
