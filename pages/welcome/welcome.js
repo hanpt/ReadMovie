@@ -6,6 +6,6 @@ Page({
     wx.redirectTo({
       url: '../posts/posts'
     })
-    console.log(e)
+    
   }
 })
